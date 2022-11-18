@@ -1,6 +1,7 @@
 # Getting Started with Create React App
+Responsive weather forecast app using ReactJs, Axios, Meteo API and Geocoding API.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
 ## Available Scripts
 
