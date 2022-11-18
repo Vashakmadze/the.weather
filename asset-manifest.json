@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/the.weather/static/css/main.cafd42c3.css",
+    "main.js": "/the.weather/static/js/main.e95bf65e.js",
+    "static/js/787.d9312eb8.chunk.js": "/the.weather/static/js/787.d9312eb8.chunk.js",
+    "static/media/freezing.jpg": "/the.weather/static/media/freezing.03f028379f72c80a86d7.jpg",
+    "static/media/rain.jpg": "/the.weather/static/media/rain.9d2ce4b794da16b22a71.jpg",
+    "static/media/clear.jpg": "/the.weather/static/media/clear.2e607299456a880d8553.jpg",
+    "static/media/snow.jpg": "/the.weather/static/media/snow.7efbd724883eae3f96f7.jpg",
+    "static/media/fog.jpg": "/the.weather/static/media/fog.78f59e6f404a65b50685.jpg",
+    "static/media/cloudy.jpg": "/the.weather/static/media/cloudy.58bd8e2503915ecaf0fc.jpg",
+    "static/media/thunderstorm.jpg": "/the.weather/static/media/thunderstorm.e3fb9b526b93196d83c2.jpg",
+    "static/media/logo.svg": "/the.weather/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/the.weather/index.html",
+    "main.cafd42c3.css.map": "/the.weather/static/css/main.cafd42c3.css.map",
+    "main.e95bf65e.js.map": "/the.weather/static/js/main.e95bf65e.js.map",
+    "787.d9312eb8.chunk.js.map": "/the.weather/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cafd42c3.css",
+    "static/js/main.e95bf65e.js"
+  ]
+}
