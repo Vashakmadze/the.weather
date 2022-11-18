@@ -1,5 +1,8 @@
 # Getting Started with Create React App
-Responsive weather forecast app using ReactJs, Axios, Meteo API and Geocoding API. Inspired by https://dribbble.com/thearthurk.
+Responsive weather forecast app using ReactJs, Axios, Meteo API and Geocoding API. Inspired by https://dribbble.com/thearthurk. See website here - https://vashakmadze.github.io/the.weather/.
+
+![GIF SHOWCASE](https://github.com/Vashakmadze/Delivery-Helper-Application/blob/main/delivery%20gif.gif "WEBSITE SHOWCASE")
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
