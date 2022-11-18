@@ -28,7 +28,7 @@ function App() {
   const [menu, setMenu] = useState(false);
 
   useEffect(() => {
-    document.title = 'Weather Forecast';
+    document.title = 'the.weather | Weather Forecast';
     getCordinates(city, setWeather, setImage, setIcon);
   }, [city]);
 
